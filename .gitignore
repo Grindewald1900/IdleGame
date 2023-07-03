@@ -1,0 +1,43 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Bb]uilds/
+[Ll]ibrary/
+
+# ===================================== #
+# Visual Studio / Rider / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# =============== #
+# Logs and backups #
+# =============== #
+*_BackUp*.unity
+Backup~*
+/*Backup*/
+[Qq]uick/[Bb]ackup*/
+Library/*
