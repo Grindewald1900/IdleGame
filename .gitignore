@@ -42,3 +42,10 @@ Backup~*
 [Qq]uick/[Bb]ackup*/
 Library/*
 Logs/*
+
+# =============== #
+# Assets #
+# =============== #
+Assets/BrokenVector/*
+Assets/Card_Shirts_Lite/*
+Assets/TextMesh Pro/*
