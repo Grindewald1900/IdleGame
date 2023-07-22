@@ -7,11 +7,11 @@ public class CardController : MonoBehaviour
     // New variable to control the rotation speed
     public float rotationSpeed = 100f;
     // Start is called before the first frame update
+    // set speed to 50 by default
     void Start()
     {
-        
+        rotationSpeed = 50f;
     }
-
     // Update is called once per frame
     void Update()
     {

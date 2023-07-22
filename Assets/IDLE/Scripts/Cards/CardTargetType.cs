@@ -1,4 +1,4 @@
-public enum cardTargetType{
+public enum CardTargetType{
     RANDOM,
     FRONT_ROW,
     BACK_ROW,

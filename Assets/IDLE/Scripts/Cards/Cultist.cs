@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SwordsWomen : BaseCard
+public class Cultist : BaseCard
 {    
     void Start()
     {
@@ -14,7 +14,7 @@ public class SwordsWomen : BaseCard
     {     
         cardName = "SwordsWomen";
         cardCost = 2;
-        cardDescription = "初级剑士职业，攻击造成一定物理攻击";
+        cardDescription = "Need Localization";
         // cardImage = Resources.Load<Sprite>("CardImages/SwordsWomen");
         cardAttackType = cardAttackType.PHYSICAL;
         cardTargetType = cardTargetType.FRONT_ROW;
