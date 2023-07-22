@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class BaseCard : MonoBehaviour
 {
+    /* 
+    Variables starts with card indicate these values are visible to users
+    Otherwise, they are not visible to users, and only used for internal
+    */
     public string cardName;
     public string cardDescription;
     public int cardCost;
@@ -25,7 +29,15 @@ public class BaseCard : MonoBehaviour
     public int cardAttackType;
     // Random, front, back, all, highest atk, highest health,
     public int cardTargetType;
-    // Start is called before the first frame update
+    public int physicalDamageMultiplier;
+    public int spiritualDamageMultiplier;
+    public int magicDamageMultiplier;
+    public int healthMultiplier;
+    public int armorMultiplier;
+    public int magicResistMultiplier;
+    public int spiritualResistMultiplier;
+
+    // Start is called before the first frame update    
     void Start()
     {
         
